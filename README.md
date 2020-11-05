@@ -6,7 +6,7 @@ API Python to retreive Plannex informations
 
 ## Requirements
 
-Pour installer les dépendances :
+Pour installer les dépendances nécessaires à l'API :
 
 ```
 python3 -m pip install -r requirements.txt
@@ -48,11 +48,9 @@ Les données contiennent l'`id` du cours, les dates de début et de fin du cours
 
 ## Exemple
 
-Voici un script de test pour lister les cours de 4A IR d'une semaine :
+Voici un [script d'exemple](./example_script.py) permettant de lister les cours de 4IR_I_A1 sur une semaine :
 
 ![](./doc/imgs/example_de_script.png)
-
-Le script : [example_script.py](./example_script.py)
 
 
 ## Licenses
